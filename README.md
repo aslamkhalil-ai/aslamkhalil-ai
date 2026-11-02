@@ -10,8 +10,8 @@ with AI Automation to solve real business problems.
 ## 🛠️ Skills
 
 - **Languages:** Python
-- **ML/AI:** Scikit-learn, TensorFlow, Keras, OpenCV, NLP
-- **Automation:** n8n Workflows, AI Agents, API Integration
+- **ML/AI:** Scikit-learn, TensorFlow, Keras, OpenCV, NLP, pytorch
+- **Automation:** n8n Workflows, make.com , AI Agents, API Integration
 - **Data:** Pandas, NumPy, Matplotlib
 - **Tools:** GitHub, VS Code, API
 
