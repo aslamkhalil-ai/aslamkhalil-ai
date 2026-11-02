@@ -26,7 +26,7 @@ with AI Automation to solve real business problems.
 ## 📫 Connect With Me
 
 - LinkedIn: [https://www.linkedin.com/in/aslamkhalil-ai-automationexpert/]
-- Email: [muhammadaslamkhalil12@gmail.com]
+- Email: [aslamkhalilautomation@gmail.com]
 
 ---
 
